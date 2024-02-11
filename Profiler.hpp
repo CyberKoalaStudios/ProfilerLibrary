@@ -8,6 +8,22 @@
 // GNU General Public License for more details.
 //
 // ******************************
+// 
+//  #include <Profiler.hpp>
+// 	 
+//    int anyFunc()
+//    {
+// 	    PROFILE_FUNCTION();
+// 	    // Any scope
+// 	    {
+// 		  PROFILE_SCOPE("This is scope for file loading");
+// 	    }
+//    }
+//
+// Then run .exe file
+// Drag and drop results.json into edge://tracing/
+// Happy profiling!
+
 #pragma once
 
 #include <fstream>
