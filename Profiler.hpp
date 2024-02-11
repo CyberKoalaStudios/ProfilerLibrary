@@ -150,7 +150,6 @@ public:
 		m_stopped = false;
 
 		auto endTimepoint = std::chrono::high_resolution_clock::now();
-		//m_result.start = std::chrono::time_point_cast<std::chrono::microseconds>(endTimepoint).time_since_epoch().count();
 		m_result.end = std::chrono::time_point_cast<std::chrono::microseconds>(endTimepoint).time_since_epoch().count();
 		m_result.threadId = std::hash<std::thread::id>{}(std::this_thread::get_id());
 
