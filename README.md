@@ -2,6 +2,8 @@
 
 [![CMake on multiple platforms](https://github.com/CyberKoalaStudios/ProfilerLibrary/actions/workflows/cmake-multi-platform.yml/badge.svg)](https://github.com/CyberKoalaStudios/ProfilerLibrary/actions/workflows/cmake-multi-platform.yml)
 
+![Logo](.github/logo.jpeg)
+
 --- 
 HOWTO use:
 
