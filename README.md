@@ -4,6 +4,7 @@
 
 ![Logo](.github/logo.jpeg)
 
+
 --- 
 HOWTO use:
 
@@ -45,6 +46,12 @@ Ready to harness the power of cross-platform profiling in your C++ projects? Fol
 * Compile and Run: Rebuild your project with profiling enabled and run it on different platforms. ProfilerLibrary will capture performance data during runtime.
 
 * Analyze Results: Use the profiling results to identify areas for improvement. Tackle performance bottlenecks, optimize critical functions, and enhance your code's efficiency.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CyberKoalaStudios/ProfilerLibrary&type=Timeline)](https://star-history.com/#CyberKoalaStudios/ProfilerLibrary&Timeline)
+*
 
 ### Conclusion
 In the ever-evolving landscape of C++ development, cross-platform profiling is a must-have for those aiming to deliver top-tier performance across diverse environments.  ProfilerLibrary stands out as a reliable ally, offering a comprehensive suite of tools to elevate your code to new heights.
