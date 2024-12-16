@@ -52,6 +52,7 @@ Ready to harness the power of cross-platform profiling in your C++ projects? Fol
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CyberKoalaStudios/ProfilerLibrary&type=Timeline)](https://star-history.com/#CyberKoalaStudios/ProfilerLibrary&Timeline)
 *
+![Alt](https://repobeats.axiom.co/api/embed/43bb333af1cb78d5e44cf7ac2db056d7c0cbb6f5.svg "Repobeats analytics image")
 
 ### Conclusion
 In the ever-evolving landscape of C++ development, cross-platform profiling is a must-have for those aiming to deliver top-tier performance across diverse environments.  ProfilerLibrary stands out as a reliable ally, offering a comprehensive suite of tools to elevate your code to new heights.
